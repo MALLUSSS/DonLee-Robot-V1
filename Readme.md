@@ -29,6 +29,11 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 * Movie Text Mode (movie, Movie)
 
 --------
+
+# Diploy To Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMALLUSSS%2FDonLee-Robot-V1&envs=API_HASH%2CAPP_ID%2CBOT_NAME%2CBOT_TOKEN%2CDB_URI%2CEXPELL%2CFORCES_SUB%2CFSUB_TEXT%2CIN_EXPELL%2CKITTUMO%2COWNER_ID%2CSIZE_BUTTON%2CUSER_SESSION&optionalEnvs=BOT_NAME%2CFSUB_TEXT%2COWNER_ID%2CSIZE_BUTTON&API_HASHDesc=Your+API+Hash+From+my.telegram.org+or+%40MT_MytelegramOrg_Bot&APP_IDDesc=Your+APP+ID+From+my.telegram.org+or+%40MT_MytelegramOrg_Bot&BOT_NAMEDesc=Enter+Your+Bot+Name+From+%40BotFather&BOT_TOKENDesc=Your+Bot+Token+From+%40BotFather&DB_URIDesc=Your+Mongo+DB+URL+Obtained+From+mongodb.com&EXPELLDesc=The+words+if+contained+should+be+rejected&FORCES_SUBDesc=update+Channel+UserName+%28Without+%40%29&FSUB_TEXTDesc=Forces+Subscribers+Text&IN_EXPELLDesc=The+words+in+Expelled+you%27re+okay+with&KITTUMODesc=Ayakko+kitto+sadhanangal+%F0%9F%A4%A3&OWNER_IDDesc=You%27re+id+From+%40MT_Id_Bot&SIZE_BUTTONDesc=How+To+Use+This+Key+Watch+Tutorial+Video+-+%28%29&USER_SESSIONDesc=A+Pyrogram+User+Session+String.+Generated+From+%40MT_usersession_Bot&EXPELLDefault=movie+Movie&IN_EXPELLDefault=scary+Scary+emoji+Emoji&KITTUMODefault=ayakko+kitto+kittumo+tharo+tharumo+ayakkamo+send+undo+undaavo&referralCode=W7FeZS)
+
 ##### Available DonLee Bots
 
 <details><summary>Auto Filter Orginal</summary>
